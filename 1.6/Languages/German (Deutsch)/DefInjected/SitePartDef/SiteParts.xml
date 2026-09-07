@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RTFarmland.label>Ackerland</RTFarmland.label>
+	<RTFarmland.description>Online Standort</RTFarmland.description>
+  
+	<RTQuarry.label>Steinbruch</RTQuarry.label>
+	<RTQuarry.description>Online Standort</RTQuarry.description>
+  
+	<RTSawmill.label>Sägemwerk</RTSawmill.label>
+	<RTSawmill.description>Online Standort</RTSawmill.description>
+  
+	<RTBank.label>Bank</RTBank.label>
+	<RTBank.description>Online Standort</RTBank.description>
+  
+	<RTLaboratory.label>Labor</RTLaboratory.label>
+	<RTLaboratory.description>Online Standort</RTLaboratory.description>
+  
+	<RTRefinery.label>Raffinerie</RTRefinery.label>
+	<RTRefinery.description>Online Standort</RTRefinery.description>
+  
+	<RTHerbalWorkshop.label>Kräuterwerkstatt</RTHerbalWorkshop.label>
+	<RTHerbalWorkshop.description>Online Standort</RTHerbalWorkshop.description>
+  
+	<RTTextileFactory.label>Textilfabrik</RTTextileFactory.label>
+	<RTTextileFactory.description>Online Standort</RTTextileFactory.description>
+  
+	<RTFoodProcessor.label>Nahrungsverarbeiter</RTFoodProcessor.label>
+	<RTFoodProcessor.description>Online Standort</RTFoodProcessor.description>
+</LanguageData>

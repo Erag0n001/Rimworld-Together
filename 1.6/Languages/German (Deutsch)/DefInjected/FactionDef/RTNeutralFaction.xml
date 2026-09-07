@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RTNeutral.label>Neutrale Spieler Siedlung</RTNeutral.label>
+	<RTNeutral.description>Eine Online Fraktion</RTNeutral.description>
+	<RTNeutral.fixedName>Neutrale Spieler Siedlung</RTNeutral.fixedName>
+	<RTNeutral.leaderTitle>Anführere</RTNeutral.leaderTitle>
+	<RTNeutral.pawnSingular>Kolonist</RTNeutral.pawnSingular>
+	<RTNeutral.pawnsPlural>Kolonisten</RTNeutral.pawnsPlural>
+</LanguageData>

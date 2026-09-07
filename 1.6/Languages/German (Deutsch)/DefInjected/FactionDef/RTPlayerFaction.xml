@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RTFaction.label>Faction Player Settlements</RTFaction.label>
+	<RTFaction.description>An online faction</RTFaction.description>
+	<RTFaction.fixedName>Faction Player Settlements</RTFaction.fixedName>
+	<RTFaction.leaderTitle>leader</RTFaction.leaderTitle>
+	<RTFaction.pawnSingular>colonist</RTFaction.pawnSingular>
+	<RTFaction.pawnsPlural>colonists</RTFaction.pawnsPlural>
+</LanguageData>

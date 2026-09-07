@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RTTransferSpot.label>Warentransfer Punkt</RTTransferSpot.label>
+  <RTTransferSpot.description>Definiert einen Ort an dem die Ware landet. Gilt nur für mit Spielern gehandelte Ware!</RTTransferSpot.description>
+  <RTTransferSpot.description>Designates a spot for goods to land. Only applies to player trades!</RTTransferSpot.description>
+</LanguageData>

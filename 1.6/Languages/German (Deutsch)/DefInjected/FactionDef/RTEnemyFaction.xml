@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RTEnemy.label>Gegnerische Spieler Siedlung</RTEnemy.label>
+	<RTEnemy.description>Eine Online Fraktion</RTEnemy.description>
+	<RTEnemy.fixedName>Gegnerische Spieler Siedlung</RTEnemy.fixedName>
+	<RTEnemy.leaderTitle>Anführere</RTEnemy.leaderTitle>
+	<RTEnemy.pawnSingular>Kolonist</RTEnemy.pawnSingular>
+	<RTEnemy.pawnsPlural>Kolonisten</RTEnemy.pawnsPlural>
+</LanguageData>
